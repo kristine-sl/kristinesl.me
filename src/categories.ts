@@ -5,14 +5,14 @@ import {
   School,
   WorkOutline,
 } from '@emotion-icons/material-outlined';
-import { CategoryData } from 'cv/src/components/categories/Category';
+import { CategoryData } from 'cv';
 import {
   education,
   experience,
   lookingFor,
   other,
   research,
-} from '../assets/data/index.ts';
+} from '../assets/data/index';
 
 export const categories: CategoryData[] = [
   {
