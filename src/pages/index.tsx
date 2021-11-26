@@ -24,7 +24,7 @@ const Home: NextPage = () => {
       linkedIn="https://www.linkedin.com/in/kristinesundtlorentzen/"
       github="https://github.com/kristine-sl/cv"
       email="kristine.sundt.lorentzen@gmail.com"
-      image={<Image src={image} />}
+      image={<Image src={image} alt="Kristine S. Lorentzen" />}
       profile={profile}
       categories={categories}
       messages={{ no: nbNo, en: enUs }}
