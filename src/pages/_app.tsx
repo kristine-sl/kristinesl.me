@@ -3,7 +3,8 @@ import Head from 'next/head';
 import { Provider as ReduxProvider } from 'react-redux';
 import { store } from '../store';
 
-const App = ({ Component, pageProps }: AppProps) => {
+const App = ({ pageProps, ...props }: AppProps) => {
+  const Component = props.Component as any;
   return (
     <ReduxProvider store={store}>
       <Head>
