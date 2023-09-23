@@ -8,7 +8,7 @@
 
   "profile.picture": "Profilbilde",
   "profile.jobTitle": "Senior UX Designer",
-  "profile.about.description": "Jeg er lidenskapelig opptatt av design og brukeropplevelser. I mitt arbeidsliv har jeg lært av utfordringene og den kreative friheten som kommer med selvstending arbeid i startups. I prosjektene jeg har vært med i har jeg fått erfare hvordan design er en essensiell del av relasjonen mellom produkt og bruker.",
+  "profile.about.description": "Design, illustrasjon og optimal brukeropplevelse er hjertet av min profesjonelle lidenskap. Med bakgrunn fra flere oppstartsbedrifter har jeg fordypet meg i merkevarebygging, kommunikasjon, illustrasjon og UX-design. Denne erfaringen har styrket min overbevisning om at godt design ikke bare forbedrer et produkt, men også danner broen mellom produktet og brukeren.",
   "profile.info.age": "{age} år gammel",
   "profile.info.location": "Oslo, Norge",
   "profile.references.description": "Referanser og attester gis ved forespørsel.",
@@ -21,46 +21,46 @@
   
   "experience.antidiffer.title": "UX Designer",
   "experience.antidiffer.subtitle": "AntiDiffer/Differ Pragma",
-  "experience.antidiffer.description": "Ledet UX-designprosjekter for PrivatMegleren. Utførte grundige brukeropplevelsesstudier. Designet digitale grensesnitt med Figma. Laget wireframes og gjennomførte brukerreisekart. Bidro til omformingen til Differ Pragma, inkludert utvikling av ny merkevareidentitet. Utarbeidet pitch decks og tok tekniske, visuelle og strategiske beslutninger.",
+  "experience.antidiffer.description": "Hos AntiDiffer/Differ Pragma har jeg hatt ansvaret for å lede UX-designprosjekter, spesielt for kunder som PrivatMegleren. Min hovedoppgave var å dykke dypt inn i brukeropplevelsesstudier for å forstå og forbedre digitale interaksjoner. Fra utvikling av brukerreisekart, wireframes og design av digitale grensesnitt med Figma, har jeg håndtert prosjekter fra begynnelse til slutt. Som en sentral bidragsyter til transformasjonen til Differ Pragma, var jeg involvert i utviklingen av en helt ny merkevareidentitet. Utover det, har jeg designet pitch decks og tatt ledende beslutninger, både teknisk, visuelt og strategisk.",
   "experience.antidiffer.keywords": "UX, IX, Design",
 
   "experience.diggit.title": "UX Designer",
   "experience.diggit.subtitle": "Diggit",
-  "experience.diggit.description": "Hos Diggit har jeg fått muligheten til å utvikle UX konsepter og lage gode brukeropplevelser. Som Diggit sin eneste designer har jeg jobbet med designprosjekter fra start til slutt. Fra utvikling av brukerreiser, task flows og wireframes til UI design og prototyping for brukertesting. I tillegg til designprosjektene har jeg jobbet med å skape Diggit sin visuelle profil, plakater og flyers for markedsføring, samt animasjonsdesign og videoredigering. Jeg har også ansvar som Scrum master.",
+  "experience.diggit.description": "I min rolle hos Diggit har jeg hatt en unik posisjon som bedriftens hoveddesigner, der jeg har hatt muligheten til å forme og forbedre brukeropplevelsen fra bunnen av. Jeg har ledet designprosesser fra idé til implementering – alt fra utarbeidelse av brukerreiser, task flows og wireframes, til detaljert UI-design og prototyping klar for brukertesting. Utover dette har jeg satt preg på Diggits visuelle identitet ved å utforme markedsføringsmateriell som plakater, flyers, animasjoner og videoproduksjoner. Videre, i et tett samarbeid med vårt utviklingsteam, har jeg også tatt en aktiv rolle som Scrum Master for å sikre smidig prosjektutførelse.",
   "experience.diggit.keywords": "Figma, Adobe XD, Adobe AE, Scrum, Agile",
 
   "experience.drs.title": "Team Member",
   "experience.drs.subtitle": "DRS",
-  "experience.drs.description": "En deltidstilling mens jeg gjorde selvstudier for UX design. Telemarketing med fokus på salg av kommersielle produkter.",
+  "experience.drs.description": "I løpet av min tid i en deltidsstilling hos DRS, mens jeg parallelt fordypet meg i selvstudier for UX design, jobbet jeg aktivt med telemarketing. Mitt hovedansvar var å fokusere på salg av kommersielle produkter, men jeg ga også support ved behov.",
   "experience.drs.keywords": "Salg, Support",
 
   "experience.stormgroup.title": "Location manager & Salgscoach",
   "experience.stormgroup.subtitle": "Storm Group AS",
-  "experience.stormgroup.description": "Jeg tilbragte de to første årene med B2C salg for kommersielle klienter og veldedige organisasjoner. Det første året fikk jeg muligheten til å bli salgscoach til et team som innebar opplæring av teamet og ansvar for deres salgresultater. Det siste året tok jeg over som location manager for Storm Groups Oslo avdeling. Stillingen innebar ansvar for kontorets salgsresultater,rekruttering av nye selgere og planla salgsområder for teamene.",
+  "experience.stormgroup.description": "I min tid hos Storm Group AS fokuserte jeg initiativt på B2C-salg for både kommersielle kunder og veldedige organisasjoner. I løpet av mitt første år ble jeg forfremmet til salgscoach, et ansvar som medførte opplæring av salgsteamet og overvåking av deres salgsresultater. I mitt andre år gikk jeg videre til rollen som location manager for Storm Groups Oslo-avdeling. Dette ga meg overordnet ansvar for avdelingens salgstall, rekruttering av nye talenter, samt planlegging av salgsområder for våre team.",
   "experience.stormgroup.keywords": "Salg, Ledelse",
 
   "experience.brokkrgames.title": "Medgrunnlegger, Lead artist",
   "experience.brokkrgames.subtitle": "Brokkr Games",
-  "experience.brokkrgames.description": "Et spillselskap jeg startet med tre kompiser. Som lead artist hadde jeg ansvar for UI design, grafikk, illustrasjon og animasjoner.",
+  "experience.brokkrgames.description": "Jeg var med å grunnlegge Brokkr Games sammen med tre nære venner. I min rolle som Lead Artist var jeg drivkraften bak selskapets visuelle uttrykk, med hovedansvar for UI-design, grafikk, illustrasjoner og animasjoner.",
   "experience.brokkrgames.keywords": "Unity, Adobe Illustrator, Adobe Photoshop",
 
   "experience.snakeskinstudios.title": "Medgrunnlegger, Head of Illustration",
   "experience.snakeskinstudios.subtitle": "Snakeskin Studios",
-  "experience.snakeskinstudios.description": "Designbyrå jeg startet med to medstudenter. Vi jobbet med merkevarebygging for startups i Cornwall. Som illustrasjonsansvarlig var mine fokusområder paknings- og bokomslagsdesign.",
+  "experience.snakeskinstudios.description": "Sammen med to medstudenter etablerte jeg Snakeskin Studios, et designbyrå dedikert til merkevarebygging for startups i Cornwall. I min rolle som Head of Illustration spesialiserte jeg meg på visuell representasjon, med hovedvekt på pakningsdesign og bokomslag.",
   "experience.snakeskinstudios.keywords": "Adobe Illustrator, Adobe Photoshop",
 
   "education.bachelor.title": "Bachelor of Arts in Illustration",
   "education.bachelor.subtitle": "Falmouth University",
-  "education.bachelor.description": "Studiets fokus var å trene på problemløsning gjennom praktiske oppgaver basert på realistiske illustrasjonsprosjekter, samt å utvikle ett eget visuelt språk. Gjennom studiet lærte jeg også generelle designkonsepter som fargebruk, komposisjon og typografi.",
+  "education.bachelor.description": "Under min tid ved Falmouth University ble jeg utfordret med praktiske oppgaver som etterlignet virkelige illustrasjonsprosjekter, hvor målet var å finpusse mine problemløsningsevner. Dette studiet la vekt på å utvikle mitt eget unike visuelle språk. Videre ble jeg introdusert for kjerne designkonsepter som fargebruk, komposisjon og typografi.",
   "education.bachelor.keywords": "Illustrasjon, tegning, grafisk design",
 
   "education.generalAdmission.title": "Generell studiekompetanse",
   "education.generalAdmission.subtitle": "Ullern VGS",
 
-  "lookingFor.point.1": "Muligheten for å bruke kreativ problemløsning",
-  "lookingFor.point.2": "Arbeidsoppgaver som lar meg jobbe selvstendig",
-  "lookingFor.point.3": "Et sted hvor jeg kan utvikle meg",
-  "lookingFor.point.4": "En god arbeidskultur hvor man bygger opp hverandre",
-  "lookingFor.point.5": "En stilling hvor jeg kan utnytte min tekniske kunnskap",
-  "lookingFor.point.6": "En bedrift jeg kan hjelpe med å bygge opp og gjøre bedre"
+  "lookingFor.point.1": "En rolle som verdsetter kreativ problemløsning.",
+  "lookingFor.point.2": "Muligheten for selvstendig arbeid og autonomi i prosjekter.",
+  "lookingFor.point.3": "Et miljø for kontinuerlig personlig og faglig vekst.",
+  "lookingFor.point.4": "En positiv arbeidskultur som oppmuntrer til samarbeid og støtte.",
+  "lookingFor.point.5": "En stilling som lar meg anvende min tekniske ekspertise.",
+  "lookingFor.point.6": "En sjanse til å bidra aktivt i utviklingen og forbedringen av bedriften."
 }
