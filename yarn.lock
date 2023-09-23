@@ -1318,9 +1318,9 @@ csstype@^3.0.2, csstype@^3.1.2:
   resolved "https://registry.yarnpkg.com/csstype/-/csstype-3.1.2.tgz#1d4bf9d572f11c14031f0436e1c10bc1f571f50b"
   integrity sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==
 
-"cv@https://github.com/kristine-sl/cv":
+"cv@https://github.com/kristine-sl/cv.git":
   version "0.1.0"
-  resolved "https://github.com/kristine-sl/cv#db0e8fde2c7a1ae627fd6f91696731220868755e"
+  resolved "https://github.com/kristine-sl/cv.git#7e80e1ee6686d6cad81aa98ffc68641aef2b0602"
   dependencies:
     "@emotion-icons/fa-brands" "^3.19.0"
     "@emotion-icons/material" "^3.14.0"
