@@ -25,7 +25,14 @@ const Home: NextPage = () => {
       github="https://github.com/kristine-sl/cv"
       instagram="https://www.instagram.com/casparheide/?igshid-MzRIODBiNWFIZA"
       email="kristine.sundt.lorentzen@gmail.com"
-      image={<Image src={image} alt="Kristine S. Lorentzen" />}
+      image={
+        <Image
+          src={image}
+          alt="Kristine S. Lorentzen"
+          width="120"
+          height="120"
+        />
+      }
       profile={profile}
       categories={categories}
       messages={{ no: nbNo, en: enUs }}
