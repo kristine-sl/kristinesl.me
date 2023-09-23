@@ -10,8 +10,6 @@ import {
   education,
   experience,
   lookingFor,
-  other,
-  research,
 } from '../assets/data/index';
 
 export const categories: CategoryData[] = [
