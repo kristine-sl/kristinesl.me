@@ -10,8 +10,6 @@ import {
   education,
   experience,
   lookingFor,
-  other,
-  research,
 } from '../assets/data/index';
 
 export const categories: CategoryData[] = [
@@ -28,20 +26,6 @@ export const categories: CategoryData[] = [
     type: 'timeline',
     data: education,
     order: { xs: 2, xl: 3 },
-  },
-  {
-    header: 'categories.research',
-    icon: Biotech,
-    type: 'articles',
-    data: research,
-    order: { xs: 3, xl: 2 },
-  },
-  {
-    header: 'categories.other',
-    icon: Article,
-    type: 'articles',
-    data: other,
-    order: { xs: 4, xl: 4 },
   },
   {
     header: 'categories.lookingFor',

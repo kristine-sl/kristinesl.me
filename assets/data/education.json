@@ -1,14 +1,6 @@
 [
   {
-    "startYear": 2015,
-    "endYear": 2017,
-    "title": "education.master.title",
-    "subtitle": "education.master.subtitle",
-    "description": "education.master.description",
-    "keywords": "education.master.keywords"
-  },
-  {
-    "startYear": 2012,
+    "startYear": 2013,
     "endYear": 2015,
     "title": "education.bachelor.title",
     "subtitle": "education.bachelor.subtitle",
@@ -16,8 +8,8 @@
     "keywords": "education.bachelor.keywords"
   },
   {
-    "startYear": 2009,
-    "endYear": 2012,
+    "startYear": 2006,
+    "endYear": 2009,
     "title": "education.generalAdmission.title",
     "subtitle": "education.generalAdmission.subtitle"
   }
