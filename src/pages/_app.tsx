@@ -8,7 +8,7 @@ const App = ({ pageProps, ...props }: AppProps) => {
   return (
     <ReduxProvider store={store}>
       <Head>
-        <title>Kristine S. Lorentzen</title>
+        <title>Caspar Ramstad Heide</title>
         <meta name="description" content="Curriculum Vitae" />
       </Head>
       <Component {...pageProps} />

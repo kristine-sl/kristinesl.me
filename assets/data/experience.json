@@ -1,49 +1,49 @@
 [
   {
-    "startYear": 2021,
-    "title": "experience.cowork.title",
-    "subtitle": "experience.cowork.subtitle",
-    "description": "experience.cowork.description",
-    "keywords": "experience.cowork.keywords"
+    "startYear": 2022,
+    "title": "experience.antidiffer.title",
+    "subtitle": "experience.antidiffer.subtitle",
+    "description": "experience.antidiffer.description",
+    "keywords": "experience.antidiffer.keywords"
   },
   {
     "startYear": 2019,
-    "endYear":2020,
-    "title": "experience.visma.title",
-    "subtitle": "experience.visma.subtitle",
-    "description": "experience.visma.description",
-    "keywords": "experience.visma.keywords"
+    "endYear":2022,
+    "title": "experience.diggit.title",
+    "subtitle": "experience.diggit.subtitle",
+    "description": "experience.diggit.description",
+    "keywords": "experience.diggit.keywords"
   },
   {
-    "startYear": 2017,
+    "startYear": 2018,
     "endYear": 2019,
-    "title": "experience.tietoevry.title",
-    "subtitle": "experience.tietoevry.subtitle",
-    "description": "experience.tietoevry.description",
-    "keywords": "experience.tietoevry.keywords"
+    "title": "experience.drs.title",
+    "subtitle": "experience.drs.subtitle",
+    "description": "experience.drs.description",
+    "keywords": "experience.drs.keywords"
+  },
+  {
+    "startYear": 2016,
+    "endYear": 2018,
+    "title": "experience.stormgroup.title",
+    "subtitle": "experience.stormgroup.subtitle",
+    "description": "experience.stormgroup.description",
+    "keywords": "experience.stormgroup.keywords"
   },
   {
     "startYear": 2015,
-    "endYear": 2017,
-    "title": "experience.westerdals.title",
-    "subtitle": "experience.westerdals.subtitle",
-    "description": "experience.westerdals.description",
-    "keywords": "experience.westerdals.keywords"
+    "endYear": 2016,
+    "title": "experience.brokkrgames.title",
+    "subtitle": "experience.brokkrgames.subtitle",
+    "description": "experience.brokkrgames.description",
+    "keywords": "experience.brokkrgames.keywords"
   },
   {
     "startYear": 2013,
     "endYear": 2015,
-    "title": "experience.telenor.title",
-    "subtitle": "experience.telenor.subtitle",
-    "description": "experience.telenor.description",
-    "keywords": "experience.telenor.keywords"
-  },
-  {
-    "startYear": 2010,
-    "endYear": 2013,
-    "title": "experience.humac.title",
-    "subtitle": "experience.humac.subtitle",
-    "description": "experience.humac.description",
-    "keywords": "experience.humac.keywords"
+    "title": "experience.snakeskinstudios.title",
+    "subtitle": "experience.snakeskinstudios.subtitle",
+    "description": "experience.snakeskinstudios.description",
+    "keywords": "experience.snakeskinstudios.keywords"
   }
 ]

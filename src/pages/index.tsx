@@ -1,10 +1,10 @@
 import { App } from 'cv';
 import type { NextPage } from 'next';
-import Image from 'next/image';
+import Image from 'next/legacy/image';
 import { useDispatch, useSelector } from 'react-redux';
 import { profile } from '../../assets/data/index';
 import { enUs, nbNo } from '../../assets/lang';
-import image from '../../public/images/profile_image.webp';
+import image from '../../public/images/caspar-CV.webp';
 import { categories } from '../categories';
 import {
   selectLocale,
@@ -21,11 +21,10 @@ const Home: NextPage = () => {
 
   return (
     <App
-      linkedIn="https://www.linkedin.com/in/kristinesundtlorentzen/"
-      github="https://github.com/kristine-sl/cv"
-      instagram="https://www.instagram.com/casparheide/?igshid-MzRIODBiNWFIZA"
-      email="kristine.sundt.lorentzen@gmail.com"
-      image={<Image src={image} alt="Kristine S. Lorentzen" />}
+      linkedIn="https://www.linkedin.com/in/caspar-ramstad-heide-46262252/"
+      instagram="https://instagram.com/casparheide?igshid=MzRlODBiNWFlZA=="
+      email="casparheide@gmail.com"
+      image={<Image src={image} alt="Caspar Ramstad Heide" />}
       profile={profile}
       categories={categories}
       messages={{ no: nbNo, en: enUs }}
@@ -33,7 +32,7 @@ const Home: NextPage = () => {
       theme={theme}
       toggleTheme={() => dispatch(toggleTheme())}
       locale={locale}
-      updateLocale={(locale) => dispatch(updateLocale(locale))}
+      updateLocale={(locale: string) => dispatch(updateLocale(locale))}
     />
   );
 };

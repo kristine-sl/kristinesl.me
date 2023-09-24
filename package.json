@@ -9,12 +9,13 @@
   },
   "dependencies": {
     "cv": "https://github.com/kristine-sl/cv.git",
-    "next": "^12",
+    "next": "^13",
     "react": "^18",
     "react-dom": "^18",
     "react-redux": "^8"
   },
   "devDependencies": {
+    "@netlify/plugin-nextjs": "^4.40.1",
     "@types/node": "^20",
     "@types/react": "^18",
     "eslint": "^8",
